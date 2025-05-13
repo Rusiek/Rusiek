@@ -7,4 +7,4 @@ My name is Szymon Rusiecki and I am Computer Science student at AGH UST. What ca
 
 Also you can find here programs that I created to help other students from my year to study or presentations for Studencki Festiwal Informatyczny for the 17th and 18th editions.
 
-<a href=""> <img align="center" src="https://github-readme-stats-rusiek.vercel.app/api/top-langs/?username=Rusiek&theme=react&layout=compact&langs_count=8" /> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-rusiek.vercel.app/api/top-langs/?username=Rusiek&theme=react&layout=compact&langs_count=8&hide=jupyter%20notebook" /> </a>
